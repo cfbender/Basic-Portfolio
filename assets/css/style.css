@@ -82,7 +82,7 @@ a {
     height: 175px;
     margin-top: 15px;
     margin-right: 15px;
-    margin-bottom: 15px;
+    margin-bottom: 0px;
 }
 
 .mainblock {
@@ -176,4 +176,15 @@ footer {
       background-color: #4aaaa5;
       float: left;
       padding: 10px 30px 10px 30px;
+  }
+
+  #interests {
+      margin: 0 auto;
+      text-align: center;
+      clear: both;
+  }
+
+  h3 {
+      font-size: 1.05em;
+      font-weight: bold;
   }
