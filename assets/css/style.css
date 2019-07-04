@@ -57,10 +57,19 @@ h2 {
     padding: 24px 0px 24px 0px;
 }
 
-a {
+ul {
+    list-style-type: none;
+}
+
+.navlist {
+    float: left;
+}
+
+li a {
     color: #777;
     text-decoration: none;
     font-size: 1.1em;
+    text-align: center;
 }
 
 #about:hover,
